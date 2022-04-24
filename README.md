@@ -1,2 +1,2 @@
 # study_summary
- summary about study something
+ summary about study things
